@@ -1,0 +1,4 @@
+header background = rgba(59, 59, 59, 0.9);
+
+hover icon = #a3a3a3;
+icon = #2F3C4F;
