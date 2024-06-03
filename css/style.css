@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: 3b3b3b;
+  color: #3b3b3b;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: 3b3b3b;
+  color: #3b3b3b;
   outline: none;
   text-decoration: none;
 }
@@ -73,17 +73,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: 3b3b3b;
+  background: #3b3b3b;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: 3b3b3b;
+  background: #3b3b3b;
 }
 
 ::selection {
   color: #fff;
-  background: 3b3b3b;
+  background: #3b3b3b;
 }
 
 #fh5co-header,
@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: 3b3b3b;
+  background: #3b3b3b;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: 3b3b3b !important;
+  color: #3b3b3b !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: 3b3b3b;
+  background: #3b3b3b;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: 3b3b3b;
+  color: #3b3b3b;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -804,7 +804,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #3b3b3b;
+  color: ##3b3b3b;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1114,9 +1114,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: 3b3b3b;
+  background: #3b3b3b;
   color: #fff;
-  border: 2px solid 3b3b3b;
+  border: 2px solid #3b3b3b;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1124,11 +1124,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: 3b3b3b;
-  border: 2px solid 3b3b3b;
+  color: #3b3b3b;
+  border: 2px solid #3b3b3b;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: 3b3b3b;
+  background: #3b3b3b;
   color: #fff;
 }
 
@@ -1258,7 +1258,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: 3b3b3b;
+  border-color: #3b3b3b;
 }
 
 .row-pb-md {
